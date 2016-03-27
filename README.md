@@ -2,7 +2,7 @@
 
 ####Part 1: Optimize PageSpeed Insights score for index.html
 
-####To run the site open the file index.html. Some animations use JavaScript so make sure JavaScript is enabled in your browser.
+* To run the site open the file index.html. Some animations use JavaScript so make sure JavaScript is enabled in your browser.
 
 ####Optimizing techniques used:
 * inlined all CSS
